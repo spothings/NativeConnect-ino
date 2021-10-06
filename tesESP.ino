@@ -5,7 +5,7 @@ const char* ssid = "bukanspot";
 const char* password = "kosonginaja";
 
 //Your Domain name with URL path or IP address with path
-String serverName = "http://172.16.7.2/static/insert.php";
+String serverName = "http://172.16.7.2/insert.php";
 
 // the following variables are unsigned longs because the time, measured in
 // milliseconds, will quickly become a bigger number than can be stored in an int.
