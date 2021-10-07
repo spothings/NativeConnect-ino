@@ -12,8 +12,8 @@ String serverName = "http://172.16.7.2/insert.php";
 unsigned long lastTime = 0;
 // Timer set to 10 minutes (600000)
 //unsigned long timerDelay = 600000;
-// Set timer to 5 seconds (5000)
-unsigned long timerDelay = 5000;
+// Set timer to 6 seconds (6000)
+unsigned long timerDelay = 6000;
 
 void setup() {
   Serial.begin(115200); 
